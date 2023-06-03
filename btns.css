@@ -1,0 +1,25 @@
+/*This is for the buttons*/
+/*Idk what to call it xD*/
+.cards{
+    background: none;
+    outline: 3px solid #f0f2f5;
+    padding: 5px;
+    padding-bottom: 8px;
+    margin: 10px;
+    margin: auto;
+    border-radius: 5px;
+    width: 140px;
+    text-align: center;
+    font-size: 30px;
+    cursor: pointer;
+    transition: .2s;
+}
+.cards:hover{
+    outline: 4px solid #fff;
+    margin: 15px;
+    margin: auto;
+    padding: 7px;
+    padding-bottom: 10px;
+    width: 150px;
+    color: #fff;
+}
