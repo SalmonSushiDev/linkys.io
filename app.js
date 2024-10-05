@@ -18,7 +18,7 @@ twit.addEventListener('click', function(){
     window.open('https://twitter.com/5h3rApr', 'target_blank')
 });
 ibis.addEventListener('click', function(){
-    window.open('https://ibispaint.com/artist1/1651487144354119680/', 'target_blank')
+    alert('Not available at the moment :(');
 });
 dis.addEventListener('click', function(){
     alert('5h3rapr');
